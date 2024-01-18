@@ -1,0 +1,40 @@
+{
+  "totalFound": 42,
+  "result": [
+    {
+      "propertyBadge": "House for sale",
+      "propertyBroker": "Brokered by CENTURY 21 Full Service Realty",
+      "propertyPrice": "$459,000",
+      "propertyAddresses": "176 Dana Rd Newport, OH 45768",
+      "propertyImageUrl": "https://ap.rdcpix.com/afb780353f29e9b79467c1d573212e88l-b236151234od-w480_h360_x2.jpg"
+    },
+    {
+      "propertyBadge": "House for sale",
+      "propertyBroker": "Brokered by Howard Hanna Premier R E",
+      "propertyPrice": "$189,900",
+      "propertyAddresses": "176 Dana Rd Newport, OH 45768",
+      "propertyImageUrl": "https://ap.rdcpix.com/afb780353f29e9b79467c1d573212e88l-b236151234od-w480_h360_x2.jpg"
+    },
+    {
+      "propertyBadge": "House for sale",
+      "propertyBroker": "Brokered by Exp Realty, Llc.",
+      "propertyPrice": "$379,900",
+      "propertyAddresses": "176 Dana Rd Newport, OH 45768",
+      "propertyImageUrl": "https://ap.rdcpix.com/afb780353f29e9b79467c1d573212e88l-b236151234od-w480_h360_x2.jpg"
+    },
+    {
+      "propertyBadge": "House for sale",
+      "propertyBroker": "Brokered by The Danberry Co",
+      "propertyPrice": "$150,000",
+      "propertyAddresses": "176 Dana Rd Newport, OH 45768",
+      "propertyImageUrl": "https://ap.rdcpix.com/afb780353f29e9b79467c1d573212e88l-b236151234od-w480_h360_x2.jpg"
+    },
+    {
+      "propertyBadge": "House for sale",
+      "propertyBroker": "Brokered by Sibcy Cline - Western Hills",
+      "propertyPrice": "$7,900,000",
+      "propertyAddresses": "176 Dana Rd Newport, OH 45768",
+      "propertyImageUrl": "https://ap.rdcpix.com/afb780353f29e9b79467c1d573212e88l-b236151234od-w480_h360_x2.jpg"
+    }
+  ]
+}
